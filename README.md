@@ -28,6 +28,6 @@ Sample Input:
 5
 9 6 -53 32 16
 
-Sample Output
+Sample Output:
 206
 1397
